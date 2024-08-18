@@ -1,0 +1,20 @@
+body {
+
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.slot-machine {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+
+
+.slot {
+    height: 10px;
+    width: 35px;
+
+
